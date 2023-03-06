@@ -1,0 +1,35 @@
+c:\users\mei group\documents\visual studio 2015\Projects\ungdung_iot\ungdung_iot\bin\Debug\ungdung_iot.exe.config
+C:\Users\MEI GROUP\documents\visual studio 2015\Projects\ungdung_iot\ungdung_iot\bin\Debug\ungdung_iot.exe
+C:\Users\MEI GROUP\documents\visual studio 2015\Projects\ungdung_iot\ungdung_iot\bin\Debug\ungdung_iot.pdb
+C:\Users\MEI GROUP\documents\visual studio 2015\Projects\ungdung_iot\ungdung_iot\bin\Debug\M2Mqtt.Net.dll
+C:\Users\MEI GROUP\documents\visual studio 2015\Projects\ungdung_iot\ungdung_iot\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\MEI GROUP\documents\visual studio 2015\Projects\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.Form1.resources
+C:\Users\MEI GROUP\documents\visual studio 2015\Projects\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.Properties.Resources.resources
+C:\Users\MEI GROUP\documents\visual studio 2015\Projects\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.csproj.GenerateResource.Cache
+C:\Users\MEI GROUP\documents\visual studio 2015\Projects\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.exe
+C:\Users\MEI GROUP\documents\visual studio 2015\Projects\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.pdb
+D:\CT TNHH MEI GROUP DATA\2023\DA\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\bin\Debug\ungdung_iot.exe.config
+D:\CT TNHH MEI GROUP DATA\2023\DA\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\bin\Debug\ungdung_iot.exe
+D:\CT TNHH MEI GROUP DATA\2023\DA\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\bin\Debug\ungdung_iot.pdb
+D:\CT TNHH MEI GROUP DATA\2023\DA\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\bin\Debug\M2Mqtt.Net.dll
+D:\CT TNHH MEI GROUP DATA\2023\DA\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\bin\Debug\M2Mqtt.Net.pdb
+D:\CT TNHH MEI GROUP DATA\2023\DA\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.csproj.AssemblyReference.cache
+D:\CT TNHH MEI GROUP DATA\2023\DA\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.csproj.SuggestedBindingRedirects.cache
+D:\CT TNHH MEI GROUP DATA\2023\DA\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.Form1.resources
+D:\CT TNHH MEI GROUP DATA\2023\DA\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.Properties.Resources.resources
+D:\CT TNHH MEI GROUP DATA\2023\DA\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.csproj.GenerateResource.cache
+D:\CT TNHH MEI GROUP DATA\2023\DA\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.csproj.CoreCompileInputs.cache
+D:\CT TNHH MEI GROUP DATA\2023\DA\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.csproj.CopyComplete
+D:\CT TNHH MEI GROUP DATA\2023\DA\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.exe
+D:\CT TNHH MEI GROUP DATA\2023\DA\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.pdb
+E:\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\bin\Debug\ungdung_iot.exe.config
+E:\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.exe
+E:\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.pdb
+E:\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\bin\Debug\ungdung_iot.exe
+E:\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\bin\Debug\ungdung_iot.pdb
+E:\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\bin\Debug\M2Mqtt.Net.dll
+E:\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\bin\Debug\M2Mqtt.Net.pdb
+E:\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.csprojResolveAssemblyReference.cache
+E:\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.Form1.resources
+E:\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.Properties.Resources.resources
+E:\PROJECT HN PMS7003\ungdung_iot\ungdung_iot\obj\Debug\ungdung_iot.csproj.GenerateResource.Cache
